@@ -1,0 +1,60 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	background: url(../img/grupal.jpg) no-repeat center center;
+	background-size: cover;
+	height: 800px;
+}
+
+.boton {
+	background-color: #FCB739;
+	width: 80px;
+	height: 30px;
+	border: #FCB739;
+	border-radius: 5px;
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.logo {
+	max-width: 100%;
+	margin-top: 85px;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin: 13px;
+	position: relative;
+	top: 60px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+section {
+	padding: 20px;
+}
+
+.fotos {
+	max-width: 100%;
+}
+
+.texto {
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+footer {
+	background-color: #323230;
+	color: whitesmoke;
+	height: 70px;
+	max-width: 100%;
+	font-size: 15px;
+	padding-top: 25px;
+}
